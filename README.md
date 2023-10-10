@@ -220,3 +220,8 @@ If you lose this file, you can lose knowing the state of your infrastructure.
 #### Terraform Directory 
 
 `.terraform` directory contains binaries of terraform providers. 
+
+
+#### Terraform & S3
+
+Had to follow the S3 rules and set by Amazon, as shown [here](https://docs.aws.amazon.com/AmazonS3/latest/userguide/bucketnamingrules.html)
