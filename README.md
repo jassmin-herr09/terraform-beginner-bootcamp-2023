@@ -250,7 +250,13 @@ Then open the file, and provide the following code (replace your token in the fi
 
 ```
 
+We have automated this workaround with the following bash script [bin/generate_tfrc/credentials](bin/generate_tfrc_credentials)
+
+
+
 
 #### Terraform & S3
 
 Had to follow the S3 rules and set by Amazon, as shown [here](https://docs.aws.amazon.com/AmazonS3/latest/userguide/bucketnamingrules.html)
+
+
